@@ -45,6 +45,6 @@ public class Person {
     }
 
 
-    //public String toString() {
-        //return "Name: " + name + ", Age: " + age + ", Height: " + height + " cm, Weight: " + weight + " kg";}
+    public String toString() {
+        return "Name: " + this.getName() + ", Age: " + this.getAge() + ", Height: " + this.getHeight() + " cm, Weight: " + this.getWeight() + " kg";}
 }

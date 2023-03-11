@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5618e903-1616-46ac-a6c9-a2d7d2ac4a1c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PersonCreator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PersonCreator.java" afterDir="false" />
+    <list default="true" id="5618e903-1616-46ac-a6c9-a2d7d2ac4a1c" name="Changes" comment="Person creator after KISS">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PersonCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PersonCreator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,10 +57,25 @@
       <workItem from="1677684014801" duration="2133000" />
       <workItem from="1678271815415" duration="4988000" />
       <workItem from="1678277522830" duration="2319000" />
+      <workItem from="1678533752903" duration="1678000" />
+      <workItem from="1678562207318" duration="1056000" />
     </task>
+    <task id="LOCAL-00001" summary="Person creator">
+      <created>1678533965170</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678533965170</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Person creator" />
+    <MESSAGE value="Person creator after KISS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Person creator after KISS" />
   </component>
 </project>
